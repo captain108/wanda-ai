@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+groq
+openai
+faiss-cpu
+sentence-transformers
+flask
+gtts
+requests
